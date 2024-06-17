@@ -1,46 +1,81 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personalized Morning Routine</title>
+    <title>Rutina Matutina Personalizada</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Arial', sans-serif;
             background-image: url('https://nas-national-prod.s3.amazonaws.com/rnhj69.jpg');
             background-size: cover;
+            background-attachment: fixed;
             color: white;
-            text-shadow: 1px 1px 2px black;
             margin: 0;
             padding: 0;
         }
         .container {
-            background: rgba(0, 0, 0, 0.6);
+            background: rgba(0, 0, 0, 0.7);
             padding: 20px;
-            max-width: 600px;
+            max-width: 700px;
             margin: 50px auto;
             border-radius: 10px;
         }
-        h1, h2, p {
+        h1, h2 {
+            color: #ffd700;
+            text-shadow: 1px 1px 2px black;
+        }
+        p, ul {
             margin: 0 0 15px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+                margin: 20px;
+            }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Personalized Morning Routine</h1>
-        <h2>7:00 AM - Wake Up</h2>
-        <p>Wake Up and Hydrate: Start your day with a glass of water to rehydrate your body after sleep.</p>
+        <h1>Rutina Matutina Personalizada</h1>
+        <h2>7:00 AM - Despertar</h2>
+        <p>Despiértate e hidrátate: comienza tu día con un vaso de agua para rehidratar tu cuerpo después de dormir.</p>
 
-        <h2>7:05 AM - Light Exercise</h2>
-        <p>Quick Physical Activity (10-15 minutes): Use your kettlebells and pull-up bar for a short, high-intensity workout to boost your metabolism and energy levels.</p>
+        <h2>7:05 AM - Ejercicio Ligero</h2>
+        <p>Actividad física rápida (10-15 minutos): usa tus kettlebells y la barra de dominadas para un entrenamiento corto y de alta intensidad que aumente tu metabolismo y niveles de energía.</p>
         <ul>
-            <li>Warm-Up: 2-3 minutes of light stretching.</li>
-            <li>Kettlebell Swings: 3 sets of 15-20 reps.</li>
-            <li>Pull-Ups: 3 sets of as many reps as possible.</li>
-            <li>Bodyweight Squats: 3 sets of 15-20 reps.</li>
+            <li>Calentamiento: 2-3 minutos de estiramientos ligeros.</li>
+            <li>Balanceos con kettlebell: 3 series de 15-20 repeticiones.</li>
+            <li>Dominadas: 3 series de tantas repeticiones como puedas.</li>
+            <li>Sentadillas con el peso corporal: 3 series de 15-20 repeticiones.</li>
         </ul>
 
-        <h2>7:20 AM - Coffee and Breakfast</h2>
-        <p>Make and Enjoy Your Coffee: Continue with your coffee habit.</p>
-        <p>Breakfast: Prepare and ea
+        <h2>7:20 AM - Café y Desayuno</h2>
+        <p>Prepara y disfruta tu café: continúa con tu hábito de tomar café.</p>
+        <p>Desayuno: prepara y come tu huevo frito con arroz. Considera agregar algunas verduras o una pieza de fruta para obtener más nutrientes y fibra.</p>
+
+        <h2>7:30 AM - Lectura de Filosofía o Mindfulness</h2>
+        <p>Estimulación mental (10-15 minutos): realiza una breve sesión de mindfulness o lee algunas páginas de un libro de filosofía para estimular tu mente y establecer un tono positivo para el día.</p>
+
+        <h2>7:45 AM - Ducha</h2>
+        <p>Tómate una ducha: una ducha refrescante puede ayudarte a sentirte despierto y listo para enfrentar el día.</p>
+
+        <h2>8:00 AM - Prepararse para el Día</h2>
+        <p>Prepárate: termina cualquier preparación matutina restante, como vestirte y organizar tus tareas para el día.</p>
+
+        <h2>Consejos Adicionales para Mejorar la Productividad y el Estado Físico:</h2>
+        <ul>
+            <li>Limita el consumo de tabaco: intenta reducir gradualmente el número de cigarrillos que fumas por la mañana. Considera reemplazar los descansos para fumar con ejercicios de respiración profunda o una caminata corta.</li>
+            <li>Permanece constante: sigue esta rutina de manera constante para construir hábitos saludables y ver progreso en tu estado físico con el tiempo.</li>
+            <li>Preparación nocturna: deja lista tu ropa de entrenamiento y equipo la noche anterior para que sea más fácil comenzar tu ejercicio matutino.</li>
+        </ul>
+    </div>
+</body>
+</html>
