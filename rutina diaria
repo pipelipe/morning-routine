@@ -9,6 +9,7 @@
             font-family: 'Arial', sans-serif;
             background-image: url('https://nas-national-prod.s3.amazonaws.com/rnhj69.jpg');
             background-size: cover;
+            background-position: center;
             background-attachment: fixed;
             color: white;
             margin: 0;
@@ -45,36 +46,54 @@
 <body>
     <div class="container">
         <h1>Rutina Matutina Personalizada</h1>
+        <h2>De Lunes a Viernes</h2>
         <h2>7:00 AM - Despertar</h2>
         <p>Despiértate e hidrátate: comienza tu día con un vaso de agua para rehidratar tu cuerpo después de dormir.</p>
 
         <h2>7:05 AM - Ejercicio Ligero</h2>
-        <p>Actividad física rápida (10-15 minutos): usa tus kettlebells y la barra de dominadas para un entrenamiento corto y de alta intensidad que aumente tu metabolismo y niveles de energía.</p>
+        <p>Actividad física rápida (15-20 minutos): Usa tus kettlebells y la barra de dominadas para un entrenamiento corto y de alta intensidad que aumente tu metabolismo y niveles de energía.</p>
         <ul>
             <li>Calentamiento: 2-3 minutos de estiramientos ligeros.</li>
             <li>Balanceos con kettlebell: 3 series de 15-20 repeticiones.</li>
             <li>Dominadas: 3 series de tantas repeticiones como puedas.</li>
             <li>Sentadillas con el peso corporal: 3 series de 15-20 repeticiones.</li>
         </ul>
+        <p>Involucra a tu hija: Haz ejercicios simples juntos, como saltar la cuerda, correr en el lugar o yoga infantil durante 10 minutos.</p>
 
-        <h2>7:20 AM - Café y Desayuno</h2>
+        <h2>7:25 AM - Café y Desayuno</h2>
         <p>Prepara y disfruta tu café: continúa con tu hábito de tomar café.</p>
-        <p>Desayuno: prepara y come tu huevo frito con arroz. Considera agregar algunas verduras o una pieza de fruta para obtener más nutrientes y fibra.</p>
+        <p>Desayuno: Prepara y come tu huevo frito con arroz. Considera agregar algunas verduras o una pieza de fruta para obtener más nutrientes y fibra. Involucra a tu hija en la preparación del desayuno, creando un momento para enseñar hábitos alimenticios saludables.</p>
 
-        <h2>7:30 AM - Lectura de Filosofía o Mindfulness</h2>
-        <p>Estimulación mental (10-15 minutos): realiza una breve sesión de mindfulness o lee algunas páginas de un libro de filosofía para estimular tu mente y establecer un tono positivo para el día.</p>
+        <h2>7:50 AM - Lectura de Filosofía o Mindfulness</h2>
+        <p>Estimulación mental (10-15 minutos): Realiza una breve sesión de mindfulness o lee algunas páginas de un libro de filosofía para estimular tu mente y establecer un tono positivo para el día. Puedes leer un cuento corto o un libro de interés para tu hija durante este tiempo.</p>
 
-        <h2>7:45 AM - Ducha</h2>
+        <h2>8:05 AM - Ducha</h2>
         <p>Tómate una ducha: una ducha refrescante puede ayudarte a sentirte despierto y listo para enfrentar el día.</p>
 
-        <h2>8:00 AM - Prepararse para el Día</h2>
-        <p>Prepárate: termina cualquier preparación matutina restante, como vestirte y organizar tus tareas para el día.</p>
+        <h2>8:20 AM - Prepararse para el Día</h2>
+        <p>Prepárate: termina cualquier preparación matutina restante, como vestirte y organizar tus tareas para el día. Ayuda a tu hija a prepararse también.</p>
+
+        <h2>8:30 AM - Transporte al Colegio</h2>
+        <p>Transporte: Puedes elegir caminar, andar en bicicleta o tomar el transporte público para llevar a tu hija al colegio. Si decides caminar o andar en bicicleta, será una excelente oportunidad para hacer ejercicio juntos. Si eliges el transporte público, considera caminar una parte del trayecto para mantener la actividad física.</p>
 
         <h2>Consejos Adicionales para Mejorar la Productividad y el Estado Físico:</h2>
         <ul>
             <li>Limita el consumo de tabaco: intenta reducir gradualmente el número de cigarrillos que fumas por la mañana. Considera reemplazar los descansos para fumar con ejercicios de respiración profunda o una caminata corta.</li>
             <li>Permanece constante: sigue esta rutina de manera constante para construir hábitos saludables y ver progreso en tu estado físico con el tiempo.</li>
             <li>Preparación nocturna: deja lista tu ropa de entrenamiento y equipo la noche anterior para que sea más fácil comenzar tu ejercicio matutino.</li>
+            <li>Involucra a tu hija: Hacer actividades juntas fortalecerá su vínculo y fomentará hábitos saludables desde una edad temprana.</li>
+        </ul>
+
+        <h2>Fin de Semana</h2>
+        <h2>Sábado y Domingo - Actividades Especiales</h2>
+        <p>El fin de semana es una excelente oportunidad para hacer actividades diferentes y disfrutar en familia. Aquí tienes algunas sugerencias:</p>
+        <ul>
+            <li><strong>Caminatas o Excursiones:</strong> Planea una caminata o excursión en la naturaleza para disfrutar del aire libre y hacer ejercicio.</li>
+            <li><strong>Paseos en Bicicleta:</strong> Sal a dar un paseo en bicicleta por el parque o en una ruta segura.</li>
+            <li><strong>Juegos y Deportes:</strong> Juega a la pelota, al frisbee o a cualquier deporte que disfruten en familia.</li>
+            <li><strong>Actividades Creativas:</strong> Realiza manualidades, pinta o haz algún proyecto artístico con tu hija.</li>
+            <li><strong>Tiempo de Lectura:</strong> Lee libros juntos o visita una biblioteca local.</li>
+            <li><strong>Explorar la Ciudad:</strong> Visita museos, parques o lugares históricos de tu ciudad.</li>
         </ul>
     </div>
 </body>
